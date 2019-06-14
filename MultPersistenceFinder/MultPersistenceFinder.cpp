@@ -4,7 +4,6 @@
 #include <iostream>
 #include <string>
 #include "MultPersistenceFinder.h"
-#include <thread>
 
 void CheckSteps(long long num);
 
